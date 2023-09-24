@@ -96,3 +96,7 @@ http://210.210.155.37/qwr9ew/s/s14/index.m3u8
 #EXTINF:-1 tvg-id='mtvstage.id' tvg-logo='',MTV Stage
 #EXTGRP:HIBURAN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
+
+#EXTINF:-1 tvg-id='crimeinvest.id' tvg-logo='',Crime Investigation
+#EXTGRP:TV-NASIONAL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
