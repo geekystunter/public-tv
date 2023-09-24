@@ -100,3 +100,68 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u
 #EXTINF:-1 tvg-id='crimeinvest.id' tvg-logo='',Crime Investigation
 #EXTGRP:TV-NASIONAL
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
+
+
+#EXTINF:-1 tvg-id='beinsport1' tvg-logo='',Bein Sports 1
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/8
+
+#EXTINF:-1 tvg-id='beinsport2' tvg-logo='',Bein Sports 2
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/15
+
+#EXTINF:-1 tvg-id='beinsport3' tvg-logo='',Bein Sports 3
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/18
+
+#EXTINF:-1 tvg-id='beinsport4' tvg-logo='',Bein Sports 4
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/9238
+
+#EXTINF:-1 tvg-id='beinsport5' tvg-logo='',Bein Sports 5
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/69215
+
+#EXTINF:-1 tvg-id='bundesliga1' tvg-logo='',Bundesliga 1
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4833
+
+#EXTINF:-1 tvg-id='bundesliga2' tvg-logo='',Bundesliga 2
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4836
+
+#EXTINF:-1 tvg-id='bundesliga3' tvg-logo='',Bundesliga 3
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4838
+
+#EXTINF:-1 tvg-id='bundesliga4' tvg-logo='',Bundesliga 4
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4840
+
+#EXTINF:-1 tvg-id='bundesliga5' tvg-logo='',Bundesliga 5
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4842
+
+#EXTINF:-1 tvg-id='skysport1' tvg-logo='',Sky Sport 1
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4854
+
+#EXTINF:-1 tvg-id='skysport2' tvg-logo='',Sky Sport 2
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4857
+
+#EXTINF:-1 tvg-id='skysport3' tvg-logo='',Sky Sport 3
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4861
+
+#EXTINF:-1 tvg-id='skysport4' tvg-logo='',Sky Sport 4
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4863
+
+#EXTINF:-1 tvg-id='skysport5' tvg-logo='',Sky Sport 5
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4865
+
+#EXTINF:-1 tvg-id='skysport6' tvg-logo='',Sky Sport 6
+#EXTGRP:OLAHRAGA
+http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4867
