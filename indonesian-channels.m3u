@@ -1,0 +1,98 @@
+#EXTM3U
+#EXTINT:-1 [COLOR red] --Indonesian Channels-- [/COLOR]
+
+#EXTINF:-1 tvg-id='sctv.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png',SCTV
+#EXTGRP:TV-NASIONAL
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162141
+
+#EXTINF:-1 tvg-id='trans.id' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png',Trans TV
+#EXTGRP:TV-NASIONAL
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1075472161_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-id='trans7.id' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png',Trans 7
+#EXTGRP:TV-NASIONAL
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id='tvri.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png',TVRI
+#EXTGRP:TV-NASIONAL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
+
+#EXTINF:-1 tvg-id='metrotv.id' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/200px-LogoMetroTVsince2010.svg.png',Metro TV
+#EXTGRP:TV-NASIONAL
+https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
+
+#EXTINF:-1 tvg-id='ANTV.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/200px-Antv_logo.svg.png',ANTV
+#EXTGRP:TV-NASIONAL
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
+
+#EXTINF:-1 tvg-id='ANTVbackup.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/200px-Antv_logo.svg.png',ANTV (Alt)
+#EXTGRP:TV-NASIONAL
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165072
+
+#EXTINF:-1 tvg-id='net.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/200px-NET._sky_blue.svg.png',NET.
+#EXTGRP:TV-NASIONAL
+https://ythls.onrender.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8 --
+
+#EXTINF:-1 tvg-id='moji.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/200px-Moji_blue.svg.png',Moji
+#EXTGRP:OLAHRAGA
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+
+#EXTINF:-1 tvg-id='citrabioskop.id' tvg-logo='',Citra Bioskop
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+
+#EXTINF:-1 tvg-id='citradrama.id' tvg-logo='',Citra Drama
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+
+#EXTINF:-1 tvg-id='paramountnetwork.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png',Paramount Network
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
+#EXTINF:-1 tvg-id='rockaction.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rock_Action.png/280px-Rock_Action.png',Rock Action
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
+
+#EXTINF:-1 tvg-id='dreamwork.id' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/220px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png',DreamWork
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
+
+#EXTINF:-1 tvg-id='cartoonnetwork.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png',Cartoon Network
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+
+#EXTINF:-1 tvg-id='nickelodeon.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/NICK2023.png/200px-NICK2023.png',Nickelodeon
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+
+#EXTINF:-1 tvg-id='mtv90s.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/200px-MTV_2021_%28brand_version%29.svg.png',MTV 90'S
+#EXTGRP:HIBURAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
+
+#EXTINF:-1 tvg-id='indosiar.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png',Indosiar
+#EXTGRP:TV-NASIONAL
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/162138
+
+#EXTINF:-1 tvg-id='hbo.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png',HBO
+#EXTGRP:FILM
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197972
+
+#EXTINF:-1 tvg-id='hbohits.id' tvg-logo='',HBO Hits
+#EXTGRP:FILM
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
+
+#EXTINF:-1 tvg-id='hbosignature.id' tvg-logo='',HBO Signature
+#EXTGRP:FILM
+http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221948
+
+#EXTINF:-1 tvg-id='MUTV' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/a/a0/Mutv_new_logo.png/200px-Mutv_new_logo.png',MUTV
+#EXTGRP:OLAHRAGA
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
+#EXTINF:-1 tvg-id='rodjatv.id' tvg-logo='',RodjaTV
+#EXTGRP:TV-NASIONAL
+http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+
+#EXTINF:-1 tvg-id='mtvstage.id' tvg-logo='',MTV Stage
+#EXTGRP:HIBURAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8

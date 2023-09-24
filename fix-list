@@ -1,0 +1,21 @@
+-- ADD --
+-- INEWS
+-- MNCTV
+-- GTV
+-- RCTI
+-- TVONE
+-- SPORT CHANNELS
+
+/* AVOID THESE URLS */
+
+/* #EXTINF:-1 tvg-id='gtv.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/190px-GTV_%282017%29.svg.png',GTV
+#EXTGRP:TV-NASIONAL
+http://tvkuonline.my.id:25461/riyad/riyad/11
+
+#EXTINF:-1 tvg-id='mnctv.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/200px-MNCTV_logo_2015.svg.png',MNCTV
+#EXTGRP:TV-NASIONAL
+http://tvkuonline.my.id:25461/riyad/riyad/9
+
+#EXTINF:-1 tvg-id='rcti.id' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/200px-RCTI_logo_2015.svg.png',RCTI
+#EXTGRP:TV-NASIONAL
+http://tvkuonline.my.id:25461/riyad/riyad/8 */
