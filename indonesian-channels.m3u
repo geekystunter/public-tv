@@ -1,106 +1,112 @@
 #EXTM3U
-#EXTINT:-1 [COLOR red] --Indonesian Channels-- [/COLOR]
 
-#EXTINF:-1 tvg-id='sctv.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/200px-SCTV_Logo.svg.png',SCTV
+####################### INDONESIAN #######################
+
+#EXTINF:-1 tvg-id='sctv.id' tvg-logo='http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png' tvg-name='SCTV' group-title='TV-NASIONAL',SCTV
 #EXTGRP:TV-NASIONAL
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/162141
+https://shorturl.at/yEFPX
 
-#EXTINF:-1 tvg-id='trans.id' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/200px-Trans_TV_2013.svg.png',Trans TV
+#EXTINF:-1 tvg-id='sctvbackup.id' tvg-logo='http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png' tvg-name='SCTV (BACKUP)' group-title='BACKUP-TV-NASIONAL',SCTV (BACKUP)
+#EXTGRP:BACKUP-TV-NASIONAL
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+
+#EXTINF:-1 tvg-id='transtv.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png' tvg-name='TRANS TV' group-title='TV-NASIONAL',TRANS TV
 #EXTGRP:TV-NASIONAL
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1075472161_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id='trans7.id' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/200px-Trans_7_2013.svg.png',Trans 7
+#EXTINF:-1 tvg-id='trans7.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png' tvg-name='TRANS 7' group-title='TV-NASIONAL',TRANS 7
 #EXTGRP:TV-NASIONAL
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id='tvri.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/150px-TVRILogo2019.svg.png',TVRI
+#EXTINF:-1 tvg-id='tvri.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png' tvg-name='TVRI' group-title='TV-NASIONAL',TVRI
 #EXTGRP:TV-NASIONAL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch399)/index.m3u8
+https://op-krgroup2-swiftservesd-1.dens.tv/s/s11/02.m3u8
 
-#EXTINF:-1 tvg-id='metrotv.id' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/c/c1/LogoMetroTVsince2010.svg/200px-LogoMetroTVsince2010.svg.png',Metro TV
+#EXTINF:-1 tvg-id='tvribackup.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png' tvg-name='TVRI' group-title='BACKUP-TV-NASIONAL',TVRI
+#EXTGRP:BACKUP-TV-NASIONAL
+https://shorturl.at/clrCV
+
+#EXTINF:-1 tvg-id='metrotv.id' tvg-logo='https://i.postimg.cc/DyJqNWJL/20230518-221003.png' tvg-name='METRO TV' group-title='TV-NASIONAL',METRO TV
 #EXTGRP:TV-NASIONAL
-https://ythls.onrender.com/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
-#EXTINF:-1 tvg-id='ANTV.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/200px-Antv_logo.svg.png',ANTV
+#EXTINF:-1 tvg-id='antv.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='ANTV' group-title='TV-NASIONAL',ANTV
 #EXTGRP:TV-NASIONAL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch390)/index.m3u8
+https://op-group2-swiftservesd-1.dens.tv/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-id='ANTVbackup.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/200px-Antv_logo.svg.png',ANTV (Alt)
+#EXTINF:-1 tvg-id='antvbackup.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='ANTV (BACKUP)' group-title='BACKUP-TV-NASIONAL',ANTV (BACKUP)
 #EXTGRP:TV-NASIONAL
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/165072
+https://op-group2-swiftservesd-1.dens.tv/s/s07/02.m3u8
 
-#EXTINF:-1 tvg-id='net.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/NET._sky_blue.svg/200px-NET._sky_blue.svg.png',NET.
+#EXTINF:-1 tvg-id='net.id' tvg-logo='https://i.imgur.com/fChjylx.png' tvg-name='NET.' group-title='TV-NASIONAL',NET.
 #EXTGRP:TV-NASIONAL
-https://ythls.onrender.com/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8 --
+https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 
-#EXTINF:-1 tvg-id='moji.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/200px-Moji_blue.svg.png',Moji
-#EXTGRP:OLAHRAGA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
+#EXTINF:-1 tvg-id='moji.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='Moji' group-title='TV-NASIONAL',Moji
+#EXTGRP:TV-NASIONAL
+https://etslive-app.vidio.com/live/206/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdnpMVG5lSWJOR0NxTUlmbi9EZFVCQWlueWJIVTFMYWhnek4rUFNvRnZRVHpEYlFqQ1VSY2F3Rm41SVZ3eWxzVlNBcVI0V1Y2Z1VNa3dBVHlUalBpZkZ2aWVsNzlBQW13dkdlOUNGbmtRdG81bzF5VGdwVXVpMDlUaklRYmlYV0N6MGpGZk9EaDArNmNtczRkN0w4azJ5RHhhQkhZTkJqYmpmZ01JR1Z3VWc2eUU5cUR6RHMveGlBYUlVKzczVko2akd2dXVUQ0VRckx1YWcvNGhudFVEQ1crdnlzNUEvNCtCcllhUG52dmlvUHdVQXJEQWF0cE1DWHNzMUtNWGh4ZVl1Y1ViRGd6L0s3Qi9pbHRxZmp4U2I2VnRkQkNsSm1yRENEamRNaUF6dG8xRjEybVhySkgyUnByd2FWSkVCYVhXRTBvdG5CQ2VncUtCdTY2aFRtcXFKTXp4SmszZEM0QTNyWUNrckkramx5OTFLamhKb0xhTnd5bmlsUkR4Y1d5VHFFUmlaZ0Y3WVI4alZiT0VTTFd6N3R5bnJwRTltUGx5UjhXSGMzNWl0bGpoRXphNWFjVkU2ZHpESzRlMWZyQ3RZWmZ3aHpXZUZKNTZBdGpRMzJkaXJKQ1p6ZWF3Q3ZmaHM4SUxqN1hkM1IxZTZSZjlCcXlCYmYwd3RtQ3lVQ29IYmJtOEhBVUtXUjV2YVp0clVCV3h1UUVoSW9OY2NzUWZaUHhPZjVRSWwyT2J0b1Q3eVBndlZLWWVwcjVCaGJ3WW9HRkdwUHBhQW1pKzREeHdSb1o4YWF3aTJyVmczYnNOL09SaUZjM0VwdmtzSkN6UzVvbFJGQk1Nb212SzlqbTNJbTg2c3lMS0pQSTJ4MTVFT0R2OTgzd0Y4T09zdXdwU2FlY3N6bm5BcThLRWtkb0hEMzAwbFgxWUo4UWp2UTR2
 
-#EXTINF:-1 tvg-id='citrabioskop.id' tvg-logo='',Citra Bioskop
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+#EXTINF:-1 tvg-id='indosiar.id' tvg-logo='http://www.dens.tv/images/channel-logo/10.jpg' tvg-name='Indosiar' group-title='TV-NASIONAL',Indosiar
+#EXTGRP:TV-NASIONAL
+https://etslive-app.vidio.com/live/205/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkdlMGV6VUVjM3d0bEZjQ1lCUTc3eTQ5ckdRQU9vRUw5TXVmc1ZmOW5MbWVRUTlqQ0lTenhkcWNtejE5Zkd6ZzBmejIrbXppZkxRTDBCb0t3TWFWZ1NHY0xZY2VUQmx5VDh2Y2JKZ2QzR3FFSDRSZnVHNnFBT21QcHZnSzZOakI3RmxCRjJZNHg1VUNYR0FrWVFsREM1N3M1QzNsTjFiSVk1OXNnek9PZWdCd1E4R0gzRGlXOHFZQXNHVHB6RFZHQWlwSEZqd3F3eVllTHRjQjdxeDRsMEdZdWc5M0NPY2dZVkVWa3hISFUxMGJ3L2hHMGhBNVBSMDl4MW9MbWtNRmhFaUh3d2VTVXovZlhTdENOTWhWU0Y4VjhZY3MxbThLNk9oeDNlUTdkU2U4Ny90OXBrOStXNGxsTHNJTEMrVEZwODYvV1RrdXN2TEdITzNiZ0t1MWtnUFFnZ2dnUzluT1ZabDlJTWRsKzVvZWlIeGZaK1ZMbkpxMEkvQUlXTGU4bFNOQ041dkRYZk9pZnRyUXBsZDNiQ1JvOGlienRQM2dNaGtmamo3UUF2dzRCdmUxTzNJTnpncU1OUG9wb1ZKbzU4OVd6T0xKWnVVVGpkMGdYckpDbUR2eEJIaGhtTTMyeHp0S3VwSjkyOEtzNDZQL0VaTTZ0UUdaZzA4S0h6S1dvUGQvdWVJVDJnL3hJK1FzLzY4em5oSVpCdVRyc3hQRmZXQlF2VkxlVU13TUI1eW03WElLa2dlMWVYOENtU0h6NUhTejNGakR2N3c2VGIyV1dvVVJuSDc5Wm55SktDbnRvbHF0VUxPUUVvVWM5V1hyQ3hlOW1scEM0VHFLZjZHRDJlVVczSUdySlplNVBLMml5NWhIN1ZIdm1FYk1ENkZuL2FIQUhTVnowN3o4LzIyMHNzSDNaVTZDQ2Y2RDZhcFd0
 
-#EXTINF:-1 tvg-id='citradrama.id' tvg-logo='',Citra Drama
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+#EXTINF:-1 tvg-id='rodja.id' tvg-logo='http://www.dens.tv/images/channel-logo/21.jpg' tvg-name='RODJA TV' group-title='TV-NASIONAL',RODJA TV
+#EXTGRP:TV-NASIONAL
+http://210.210.155.37/qwr9ew/s/s14/index.m3u8
 
-#EXTINF:-1 tvg-id='paramountnetwork.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/150px-Paramount_Network.svg.png',Paramount Network
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+#EXTINF:-1 tvg-id='tvone.id' tvg-logo='https://i.postimg.cc/2y4WwVhW/tvon.png' tvg-name='TVONE' group-title='TV-NASIONAL',TVONE
+#EXTGRP:TV-NASIONAL
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
-#EXTINF:-1 tvg-id='rockaction.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Rock_Action.png/280px-Rock_Action.png',Rock Action
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
+####################### HIBURAN #######################
 
-#EXTINF:-1 tvg-id='dreamwork.id' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/220px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png',DreamWork
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
-
-#EXTINF:-1 tvg-id='cartoonnetwork.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png',Cartoon Network
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
-
-#EXTINF:-1 tvg-id='nickelodeon.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/NICK2023.png/200px-NICK2023.png',Nickelodeon
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
-
-#EXTINF:-1 tvg-id='mtv90s.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/200px-MTV_2021_%28brand_version%29.svg.png',MTV 90'S
+#EXTINF:-1 tvg-id='mtv90s.et' tvg-logo='https://static.wikia.nocookie.net/dreamlogos/images/1/1a/MTV_90%27s_%282020-.n.v.%29.png' tvg-name='MTV 90's' group-title='HIBURAN',MTV 90's
 #EXTGRP:HIBURAN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
-#EXTINF:-1 tvg-id='indosiar.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/200px-Indosiar_2015.svg.png',Indosiar
-#EXTGRP:TV-NASIONAL
-http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/162138
+#EXTINF:-1 tvg-id='mtvstage.et' tvg-logo='https://cdn.logojoy.com/wp-content/uploads/2018/07/05125808/mtv-logo-1024x814.png' tvg-name='MTV Stage' group-title='HIBURAN',MTV Stage
+#EXTGRP:HIBURAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
 
-#EXTINF:-1 tvg-id='hbo.id' tvg-logo='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png',HBO
-#EXTGRP:FILM
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197972
+#EXTINF:-1 tvg-id='crime.et' tvg-logo='http://s3.i3ns.net/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png' tvg-name='Crime+ Investigation' group-title='HIBURAN',Crime+ Investigation
+#EXTGRP:HIBURAN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
 
-#EXTINF:-1 tvg-id='hbohits.id' tvg-logo='',HBO Hits
-#EXTGRP:FILM
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
+####################### FILM #######################
 
-#EXTINF:-1 tvg-id='hbosignature.id' tvg-logo='',HBO Signature
+#EXTINF:-1 tvg-id='citrabioskop.mv' tvg-logo='https://i.postimg.cc/zGzc2gDw/20230519-230743.jpg' tvg-name='Citra Bioskop' group-title='FILM',Citra Bioskop
 #EXTGRP:FILM
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221948
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+
+#EXTINF:-1 tvg-id='citradrama.mv' tvg-logo='https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG' tvg-name='Citra Drama' group-title='FILM',Citra Drama
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+
+#EXTINF:-1 tvg-id='paramountnetwork.mv' tvg-logo='http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png' tvg-name='Paramount Network' group-title='FILM',Paramount Network
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
+
+#EXTINF:-1 tvg-id='rockaction.mv' tvg-logo='http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png' tvg-name='Rock Action' group-title='FILM',Rock Action
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
+
+#EXTINF:-1 tvg-id='dreamworks.mv' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='Dreamworks' group-title='FILM',Dreamworks
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
+
+#EXTINF:-1 tvg-id='cartoonnetwork.mv' tvg-logo='http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png' tvg-name='Cartoon Network' group-title='FILM',Cartoon Network
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
+
+#EXTINF:-1 tvg-id='nickelodeon.mv' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png' tvg-name='Nickelodeon' group-title='FILM',Nickelodeon
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+
+####################### SPORTS #######################
 
 #EXTINF:-1 tvg-id='MUTV' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/a/a0/Mutv_new_logo.png/200px-Mutv_new_logo.png',MUTV
 #EXTGRP:OLAHRAGA
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-#EXTINF:-1 tvg-id='rodjatv.id' tvg-logo='',RodjaTV
-#EXTGRP:TV-NASIONAL
-http://210.210.155.37/qwr9ew/s/s14/index.m3u8
-
-#EXTINF:-1 tvg-id='mtvstage.id' tvg-logo='',MTV Stage
-#EXTGRP:HIBURAN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
-
-#EXTINF:-1 tvg-id='crimeinvest.id' tvg-logo='',Crime Investigation
-#EXTGRP:TV-NASIONAL
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
-
 
 #EXTINF:-1 tvg-id='beinsport1' tvg-logo='',Bein Sports 1
 #EXTGRP:OLAHRAGA
@@ -165,3 +171,4 @@ http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4865
 #EXTINF:-1 tvg-id='skysport6' tvg-logo='',Sky Sport 6
 #EXTGRP:OLAHRAGA
 http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4867
+
