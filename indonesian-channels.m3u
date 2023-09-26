@@ -46,6 +46,10 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3
 #EXTGRP:TV-NASIONAL
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 
+#EXTINF:-1 tvg-id='rodja.id' tvg-logo='' tvg-name='RodjaTV' group-title='TV-NASIONAL',RodjaTV
+#EXTGRP:TV-NASIONAL
+https://op-group2-swiftservesd-1.dens.tv/s/s14/01.m3u8
+
 ####################### HIBURAN #######################
 
 #EXTINF:-1 tvg-id='mtv90s.et' tvg-logo='https://static.wikia.nocookie.net/dreamlogos/images/1/1a/MTV_90%27s_%282020-.n.v.%29.png' tvg-name='MTV 90's' group-title='HIBURAN',MTV 90's
