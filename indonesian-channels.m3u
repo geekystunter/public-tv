@@ -2,11 +2,6 @@
 
 ####################### INDONESIAN #######################
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channels",Tes RCTI
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-
 #EXTINF:-1 tvg-id='sctvbackup.id' tvg-logo='http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png' tvg-name='SCTV' group-title='TV-NASIONAL',SCTV
 #EXTGRP:TV-NASIONAL
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
@@ -22,10 +17,6 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id='tvri.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png' tvg-name='TVRI' group-title='TV-NASIONAL',TVRI
 #EXTGRP:TV-NASIONAL
 https://op-krgroup2-swiftservesd-1.dens.tv/s/s11/02.m3u8
-
-#EXTINF:-1 tvg-id='tvribackup.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png' tvg-name='TVRI' group-title='BACKUP-TV-NASIONAL',TVRI
-#EXTGRP:BACKUP-TV-NASIONAL
-https://shorturl.at/clrCV
 
 #EXTINF:-1 tvg-id='metrotv.id' tvg-logo='https://i.postimg.cc/DyJqNWJL/20230518-221003.png' tvg-name='METRO TV' group-title='TV-NASIONAL',METRO TV
 #EXTGRP:TV-NASIONAL
@@ -45,15 +36,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 
 #EXTINF:-1 tvg-id='moji.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='Moji' group-title='TV-NASIONAL',Moji
 #EXTGRP:TV-NASIONAL
-https://etslive-app.vidio.com/live/206/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdnpMVG5lSWJOR0NxTUlmbi9EZFVCQWlueWJIVTFMYWhnek4rUFNvRnZRVHpEYlFqQ1VSY2F3Rm41SVZ3eWxzVlNBcVI0V1Y2Z1VNa3dBVHlUalBpZkZ2aWVsNzlBQW13dkdlOUNGbmtRdG81bzF5VGdwVXVpMDlUaklRYmlYV0N6MGpGZk9EaDArNmNtczRkN0w4azJ5RHhhQkhZTkJqYmpmZ01JR1Z3VWc2eUU5cUR6RHMveGlBYUlVKzczVko2akd2dXVUQ0VRckx1YWcvNGhudFVEQ1crdnlzNUEvNCtCcllhUG52dmlvUHdVQXJEQWF0cE1DWHNzMUtNWGh4ZVl1Y1ViRGd6L0s3Qi9pbHRxZmp4U2I2VnRkQkNsSm1yRENEamRNaUF6dG8xRjEybVhySkgyUnByd2FWSkVCYVhXRTBvdG5CQ2VncUtCdTY2aFRtcXFKTXp4SmszZEM0QTNyWUNrckkramx5OTFLamhKb0xhTnd5bmlsUkR4Y1d5VHFFUmlaZ0Y3WVI4alZiT0VTTFd6N3R5bnJwRTltUGx5UjhXSGMzNWl0bGpoRXphNWFjVkU2ZHpESzRlMWZyQ3RZWmZ3aHpXZUZKNTZBdGpRMzJkaXJKQ1p6ZWF3Q3ZmaHM4SUxqN1hkM1IxZTZSZjlCcXlCYmYwd3RtQ3lVQ29IYmJtOEhBVUtXUjV2YVp0clVCV3h1UUVoSW9OY2NzUWZaUHhPZjVRSWwyT2J0b1Q3eVBndlZLWWVwcjVCaGJ3WW9HRkdwUHBhQW1pKzREeHdSb1o4YWF3aTJyVmczYnNOL09SaUZjM0VwdmtzSkN6UzVvbFJGQk1Nb212SzlqbTNJbTg2c3lMS0pQSTJ4MTVFT0R2OTgzd0Y4T09zdXdwU2FlY3N6bm5BcThLRWtkb0hEMzAwbFgxWUo4UWp2UTR2
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch26)/index.m3u8
 
 #EXTINF:-1 tvg-id='indosiar.id' tvg-logo='http://www.dens.tv/images/channel-logo/10.jpg' tvg-name='Indosiar' group-title='TV-NASIONAL',Indosiar
 #EXTGRP:TV-NASIONAL
-https://etslive-app.vidio.com/live/205/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkdlMGV6VUVjM3d0bEZjQ1lCUTc3eTQ5ckdRQU9vRUw5TXVmc1ZmOW5MbWVRUTlqQ0lTenhkcWNtejE5Zkd6ZzBmejIrbXppZkxRTDBCb0t3TWFWZ1NHY0xZY2VUQmx5VDh2Y2JKZ2QzR3FFSDRSZnVHNnFBT21QcHZnSzZOakI3RmxCRjJZNHg1VUNYR0FrWVFsREM1N3M1QzNsTjFiSVk1OXNnek9PZWdCd1E4R0gzRGlXOHFZQXNHVHB6RFZHQWlwSEZqd3F3eVllTHRjQjdxeDRsMEdZdWc5M0NPY2dZVkVWa3hISFUxMGJ3L2hHMGhBNVBSMDl4MW9MbWtNRmhFaUh3d2VTVXovZlhTdENOTWhWU0Y4VjhZY3MxbThLNk9oeDNlUTdkU2U4Ny90OXBrOStXNGxsTHNJTEMrVEZwODYvV1RrdXN2TEdITzNiZ0t1MWtnUFFnZ2dnUzluT1ZabDlJTWRsKzVvZWlIeGZaK1ZMbkpxMEkvQUlXTGU4bFNOQ041dkRYZk9pZnRyUXBsZDNiQ1JvOGlienRQM2dNaGtmamo3UUF2dzRCdmUxTzNJTnpncU1OUG9wb1ZKbzU4OVd6T0xKWnVVVGpkMGdYckpDbUR2eEJIaGhtTTMyeHp0S3VwSjkyOEtzNDZQL0VaTTZ0UUdaZzA4S0h6S1dvUGQvdWVJVDJnL3hJK1FzLzY4em5oSVpCdVRyc3hQRmZXQlF2VkxlVU13TUI1eW03WElLa2dlMWVYOENtU0h6NUhTejNGakR2N3c2VGIyV1dvVVJuSDc5Wm55SktDbnRvbHF0VUxPUUVvVWM5V1hyQ3hlOW1scEM0VHFLZjZHRDJlVVczSUdySlplNVBLMml5NWhIN1ZIdm1FYk1ENkZuL2FIQUhTVnowN3o4LzIyMHNzSDNaVTZDQ2Y2RDZhcFd0
-
-#EXTINF:-1 tvg-id='rodja.id' tvg-logo='http://www.dens.tv/images/channel-logo/21.jpg' tvg-name='RODJA TV' group-title='TV-NASIONAL',RODJA TV
-#EXTGRP:TV-NASIONAL
-http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #EXTINF:-1 tvg-id='tvone.id' tvg-logo='https://i.postimg.cc/2y4WwVhW/tvon.png' tvg-name='TVONE' group-title='TV-NASIONAL',TVONE
 #EXTGRP:TV-NASIONAL
@@ -75,6 +62,22 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u
 
 ####################### FILM #######################
 
+#EXTINF:-1 tvg-id='hbo.mv' tvg-logo='https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png' tvg-name='hbo' group-title='FILM',hbo
+#EXTGRP:FILM
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/197972
+
+#EXTINF:-1 tvg-id='hbohits.mv' tvg-logo='' tvg-name='HBO Hits' group-title='FILM',HBO Hits
+#EXTGRP:FILM
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/196480
+
+#EXTINF:-1 tvg-id='hbofam.mv' tvg-logo='' tvg-name='HBO Family' group-title='FILM',HBO Family
+#EXTGRP:FILM
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/197055
+
+#EXTINF:-1 tvg-id='cinemax.mv' tvg-logo='' tvg-name='Cinemax' group-title='FILM',Cinemax
+#EXTGRP:FILM
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/197964
+
 #EXTINF:-1 tvg-id='citrabioskop.mv' tvg-logo='https://i.postimg.cc/zGzc2gDw/20230519-230743.jpg' tvg-name='Citra Bioskop' group-title='FILM',Citra Bioskop
 #EXTGRP:FILM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
@@ -82,6 +85,10 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u
 #EXTINF:-1 tvg-id='citradrama.mv' tvg-logo='https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG' tvg-name='Citra Drama' group-title='FILM',Citra Drama
 #EXTGRP:FILM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+
+#EXTINF:-1 tvg-id='citraentertainment.mv' tvg-logo='' tvg-name='Citra Entertaniment' group-title='FILM',Citra Entertaniment
+#EXTGRP:FILM
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
 
 #EXTINF:-1 tvg-id='paramountnetwork.mv' tvg-logo='http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png' tvg-name='Paramount Network' group-title='FILM',Paramount Network
 #EXTGRP:FILM
