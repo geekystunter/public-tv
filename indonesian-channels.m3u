@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-id='sctvbackup.id' tvg-logo='http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png' tvg-name='SCTV' group-title='TV-NASIONAL',SCTV
 #EXTGRP:TV-NASIONAL
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
+http://rr.dens.tv/s/s03/index.m3u8
 
 #EXTINF:-1 tvg-id='sctvbackup.id' tvg-logo='http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png' tvg-name='SCTV' group-title='TV-NASIONAL',SCTV
 #EXTGRP:TV-NASIONAL
@@ -61,6 +61,12 @@ https://op-group2-swiftservesd-1.dens.tv/s/s14/01.m3u8
 #EXTGRP:TV-NASIONAL
 http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=683099&extension=ts&shareext@RCTI
 
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNCTV_pro
+http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=683098&extension=ts&shareext@MNCTV
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",GTV_pro
+http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=683121&extension=ts&shareext@GTV
+
 ####################### HIBURAN #######################
 
 #EXTINF:-1 tvg-id='mtv90s.et' tvg-logo='https://static.wikia.nocookie.net/dreamlogos/images/1/1a/MTV_90%27s_%282020-.n.v.%29.png' tvg-name='MTV 90's' group-title='HIBURAN',MTV 90's
@@ -112,6 +118,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u
 #EXTINF:-1 tvg-id='rockaction.mv' tvg-logo='http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png' tvg-name='Rock Action' group-title='FILM',Rock Action
 #EXTGRP:FILM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Rock Entertainment
+http://rr1.dens.tv/h/h16/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",CinemaWorld|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165082
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",AXN|🇮🇩
+http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165079
 
 #EXTINF:-1 tvg-id='dreamworks.mv' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='Dreamworks' group-title='FILM',Dreamworks
 #EXTGRP:FILM
