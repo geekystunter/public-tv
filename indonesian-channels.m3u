@@ -26,6 +26,9 @@ https://op-krgroup2-swiftservesd-1.dens.tv/s/s11/02.m3u8
 #EXTGRP:TV-NASIONAL
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_big1.png?v=2.0.0.13" group-title="LIFESTYLE", K+
+http://210.210.155.37/uq2663/h/h08/02.m3u8
+
 #EXTINF:-1 tvg-id='antv.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='ANTV' group-title='TV-NASIONAL',ANTV
 #EXTGRP:TV-NASIONAL
 https://op-group2-swiftservesd-1.dens.tv/s/s07/01.m3u8
@@ -53,6 +56,10 @@ https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/02.m3u8
 #EXTINF:-1 tvg-id='rodja.id' tvg-logo='' tvg-name='RodjaTV' group-title='TV-NASIONAL',RodjaTV
 #EXTGRP:TV-NASIONAL
 https://op-group2-swiftservesd-1.dens.tv/s/s14/01.m3u8
+
+#EXTINF:-1 tvg-id='rcti.id' tvg-logo='' tvg-name='RCTI' group-title='TV-NASIONAL',RCTI
+#EXTGRP:TV-NASIONAL
+http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=683099&extension=ts&shareext@RCTI
 
 ####################### HIBURAN #######################
 
