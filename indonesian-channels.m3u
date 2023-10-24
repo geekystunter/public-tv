@@ -61,11 +61,14 @@ https://op-group2-swiftservesd-1.dens.tv/s/s14/01.m3u8
 #EXTGRP:TV-NASIONAL
 http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=683099&extension=ts&shareext@RCTI
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",MNCTV_pro
-http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=683098&extension=ts&shareext@MNCTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV *
+https://apel-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@LOKAL_ID棣冨殸棣冨殯",GTV_pro
-http://shareext@ss123.pro/play/live.php?mac=00:1A:79:00:19:E7&stream=683121&extension=ts&shareext@GTV
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV HD *
+https://apel-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INews
+http://apel-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 ####################### HIBURAN #######################
 
@@ -119,13 +122,16 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u
 #EXTGRP:FILM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="SHAREEXT@DENS_TV",Rock Entertainment
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="FILM",Rock Entertainment
 http://rr1.dens.tv/h/h16/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",CinemaWorld|🇮🇩
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="FILM",CinemaWorld|🇮🇩
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165082
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Shareext@MOVIES",AXN|🇮🇩
+#EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/BTmcTQO.png" group-title="FILM",MY CINEMA
+https://op-group1-swiftservesd-1.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="FILM",AXN|🇮🇩
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165079
 
 #EXTINF:-1 tvg-id='dreamworks.mv' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='Dreamworks' group-title='FILM',Dreamworks
@@ -139,6 +145,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u
 #EXTINF:-1 tvg-id='nickelodeon.mv' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png' tvg-name='Nickelodeon' group-title='FILM',Nickelodeon
 #EXTGRP:FILM
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg", MOTOR+ VISION
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
+
+#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503257_tvchannels_v1.jpg", MOTOR RACING
+https://op-group1-swiftservehd-1.dens.tv/h/h25/S4/mnf.m3u8
 
 ####################### SPORTS #######################
 
