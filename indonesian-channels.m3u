@@ -6,10 +6,6 @@
 #EXTGRP:TV-NASIONAL
 http://rr.dens.tv/s/s03/index.m3u8
 
-#EXTINF:-1 tvg-id='sctvbackup.id' tvg-logo='http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png' tvg-name='SCTV' group-title='TV-NASIONAL',SCTV
-#EXTGRP:TV-NASIONAL
-https://etslive-app.vidio.com/live/204/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkpxbHVJOW5XaTlPR2w2Q2lzM3R6ekh6OFY5a2VjQXJJV1d4bGc5OVNoZ0dlc0UyR3Z2OTVyaHRXR1gwbnRzK1dQL3NIOU1QL1kxN0FjUmsxdzIzNnphMGEvTHZ1OWt3cFlZNnNBeTkrQVEzckxlRU50Nm9GNmtJMityOUJQQmZCUUFNZzRrT0xKNHlTS0l4VXhaaUYyK1RaLzljQnlRd1pOSHZ2WHdJMzNYc2g0Tm4zR0JmcHN4UnFIZ2VxNW5oQ1l1RkY5QURHeEpZL1ZKRkxEbmh6Sm8yN3FSdFlhZXVidWFQQVpIUUx2bFFFeFBjL1JJTThOR1lVU2hMVFdVY3V1WmE2ZXVYUmthQXIvZllWU3BuNW9nWUZ1c01tTktFSmVUWHcrTklYaXA1NEljd1hnUXd1WWtWaWRnUHBJbzFseFFZNzNXZWJROVNidDNvc0dQTklNZ1phQTBtbW5aa2tmTWxyYlcvNGVVcnBFV0JHUDQvQkxOMDJHc0F5MHExd05yWjVONkVWbVgwNmV2VFhRUmFicGdwVklacnhoRjlwdDZnS0dDOTJoRGRieUE4UDA0VFdHcEJlWEMrTzVEb0E2bmY4SmNja3V6cmhBWFpDMmxhdVRTMGFuZExkMUxSNW5wUFBYZWhNRmlpTjZRMFdtR2p6QnpwbVI5OThocHBiOURrZWNBcGs1N051c3U1dU5PWFYwamY4a3R3ajlpa3Ztb2lYOE5kbGR0RDFtaGlDZzBPU0thMW5sWlpuS0FoYUI5UFUxS0tocENDdnZHeHc2RmlqSHdGM2R0OGhSQUx5cTZIU2ZPemFPRUJ0a0ozS1NBWUtCZ1ZheElPbXMxV2JFYXIyNUVWaWdDOVlQWXhJc1BsdXhjMXUzdzh5WHJ6Mmh3bEVlUW8wY0g3SllnQ3MyOTV4T2M0MmNpcTVJMllW&trace_id=29453df70bc5435303d2d01959ce73c5/9742660643321975882
-
 #EXTINF:-1 tvg-id='transtv.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png' tvg-name='TRANS TV' group-title='TV-NASIONAL',TRANS TV
 #EXTGRP:TV-NASIONAL
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1075472161_b744100_sleng.m3u8
@@ -31,15 +27,11 @@ http://210.210.155.37/uq2663/h/h08/02.m3u8
 
 #EXTINF:-1 tvg-id='antv.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='ANTV' group-title='TV-NASIONAL',ANTV
 #EXTGRP:TV-NASIONAL
-https://op-group2-swiftservesd-1.dens.tv/s/s07/01.m3u8
-
-#EXTINF:-1 tvg-id='antvbackup.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='ANTV (BACKUP)' group-title='BACKUP-TV-NASIONAL',ANTV (BACKUP)
-#EXTGRP:TV-NASIONAL
-https://op-group2-swiftservesd-1.dens.tv/s/s07/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-id='net.id' tvg-logo='https://i.imgur.com/fChjylx.png' tvg-name='NET.' group-title='TV-NASIONAL',NET.
 #EXTGRP:TV-NASIONAL
-https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-id='moji.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='Moji' group-title='TV-NASIONAL',Moji
 #EXTGRP:TV-NASIONAL
