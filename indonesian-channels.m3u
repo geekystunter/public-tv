@@ -41,10 +41,6 @@ http://210.210.155.37/uq2663/h/h223/01.m3u8
 #EXTGRP:TV-NASIONAL
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
-#EXTINF:-1 tvg-id='mekahtv.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='Moji' group-title='TV-NASIONAL',MEKKAH TV (MATI)
-#EXTGRP:TV-NASIONAL
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683102&extension=m3u8&play_token=wJfTp9js5o
-
 #EXTINF:-1 tvg-id='tvone.id' tvg-logo='https://i.postimg.cc/2y4WwVhW/tvon.png' tvg-name='TVONE' group-title='TV-NASIONAL',TV ONE (BARU)
 #EXTGRP:TV-NASIONAL
 http://210.210.155.37/uq2663/h/h40/index.m3u8
@@ -53,18 +49,11 @@ http://210.210.155.37/uq2663/h/h40/index.m3u8
 #EXTGRP:TV-NASIONAL
 http://210.210.155.37/uq2663/h/h233/01.m3u8
 
-#EXTINF:-1 tvg-id='rcti.id' tvg-logo='' tvg-name='RCTI' group-title='TV-NASIONAL',RCTI (MATI)
-#EXTGRP:TV-NASIONAL
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683099&extension=m3u8&play_token=wJfTp9js5o
+#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/82.jpg", QURAN TV (BARU)
+http://210.210.155.37/x6bnqe/s/s28/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV (MATI)
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683098&extension=m3u8&play_token=wJfTp9js5o
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV HD (MATI)
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683121&extension=m3u8&play_token=wJfTp9js5o
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INews (MATI)
-http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/132131.m3u8
+#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/88.jpg", SUNNAH TV (BARU)
+http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 
 ####################### HIBURAN #######################
 
@@ -76,6 +65,25 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="FILM",Rock Entertainment
 http://rr1.dens.tv/h/h16/index.m3u8
+
+#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg", ROCK Action (BARU)
+http://210.210.155.37/uq2663/h/h218/01.m3u8
+
+#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg", My Cinema (BARU)
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg", ZEE Bioskop (BARU)
+#http://210.210.155.37/qwr9ew/s/s32/index.m3u8
+
+#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg", HITS (BARU)
+http://210.210.155.37/uq2663/h/h205/01.m3u8
+
+#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/119.jpg", HITS Movies (BARU)
+http://210.210.155.37/uq2663/h/h206/01.m3u8
+
+#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg", Celestial Clasic Movies (BARU)
+http://210.210.155.37/uq2663/h/h239/01.m3u8
+
 
 ####################### SPORTS #######################
 
