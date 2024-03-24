@@ -8,7 +8,7 @@ http://rr.dens.tv/s/s03/index.m3u8
 
 #EXTINF:-1 tvg-id='transtv.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png' tvg-name='TRANS TV' group-title='TV-NASIONAL',TRANS TV
 #EXTGRP:TV-NASIONAL
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683100&extension=m3u8&play_token=wJfTp9js5o
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 
 #EXTINF:-1 tvg-id='trans7.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png' tvg-name='TRANS 7' group-title='TV-NASIONAL',TRANS 7
 #EXTGRP:TV-NASIONAL
@@ -18,56 +18,52 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTGRP:TV-NASIONAL
 http://xtv.ooo:8080/live/6301638/5295385/350972.m3u8
 
-#EXTINF:-1 tvg-id='tvri.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png' tvg-name='TVRI' group-title='TV-NASIONAL',TVRI
+#EXTINF:-1 tvg-id='tvri.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png' tvg-name='TVRI' group-title='TV-NASIONAL',TVRI (BARU)
 #EXTGRP:TV-NASIONAL
-https://op-krgroup2-swiftservesd-1.dens.tv/s/s11/02.m3u8
+http://210.210.155.37/uq2663/h/h237/01.m3u8
 
-#EXTINF:-1 tvg-id='metrotv.id' tvg-logo='https://i.postimg.cc/DyJqNWJL/20230518-221003.png' tvg-name='METRO TV' group-title='TV-NASIONAL',METRO TV
+#EXTINF:-1 tvg-id='metrotv.id' tvg-logo='https://i.postimg.cc/DyJqNWJL/20230518-221003.png' tvg-name='METRO TV' group-title='TV-NASIONAL',METRO TV (BARU)
 #EXTGRP:TV-NASIONAL
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+http://210.210.155.37/uq2663/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_big1.png?v=2.0.0.13" group-title="LIFESTYLE", K+
 http://210.210.155.37/uq2663/h/h08/02.m3u8
 
 #EXTINF:-1 tvg-id='antv.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='ANTV' group-title='TV-NASIONAL',ANTV
 #EXTGRP:TV-NASIONAL
-https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+http://210.210.155.37/uq2663/h/h235/01.m3u8
 
 #EXTINF:-1 tvg-id='net.id' tvg-logo='https://i.imgur.com/fChjylx.png' tvg-name='NET.' group-title='TV-NASIONAL',NET.
 #EXTGRP:TV-NASIONAL
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+http://210.210.155.37/uq2663/h/h223/01.m3u8
 
 #EXTINF:-1 tvg-id='moji.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='Moji' group-title='TV-NASIONAL',Moji
 #EXTGRP:TV-NASIONAL
-http://xtv.ooo:8080/live/6301638/5295385/350997.m3u8
+http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
-#EXTINF:-1 tvg-id='mekahtv.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='Moji' group-title='TV-NASIONAL',MEKKAH TV
+#EXTINF:-1 tvg-id='mekahtv.id' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='Moji' group-title='TV-NASIONAL',MEKKAH TV (MATI)
 #EXTGRP:TV-NASIONAL
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683102&extension=m3u8&play_token=wJfTp9js5o
 
-#EXTINF:-1 tvg-id='indosiar.id' tvg-logo='http://www.dens.tv/images/channel-logo/10.jpg' tvg-name='Indosiar' group-title='TV-NASIONAL',Indosiar
+#EXTINF:-1 tvg-id='tvone.id' tvg-logo='https://i.postimg.cc/2y4WwVhW/tvon.png' tvg-name='TVONE' group-title='TV-NASIONAL',TV ONE (BARU)
 #EXTGRP:TV-NASIONAL
-http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
+http://210.210.155.37/uq2663/h/h40/index.m3u8
 
-#EXTINF:-1 tvg-id='tvone.id' tvg-logo='https://i.postimg.cc/2y4WwVhW/tvon.png' tvg-name='TVONE' group-title='TV-NASIONAL',TVONE
+#EXTINF:-1 tvg-id='rodja.id' tvg-logo='' tvg-name='RodjaTV' group-title='TV-NASIONAL',RODJA TV (BARU)
 #EXTGRP:TV-NASIONAL
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/02.m3u8
+http://210.210.155.37/uq2663/h/h233/01.m3u8
 
-#EXTINF:-1 tvg-id='rodja.id' tvg-logo='' tvg-name='RodjaTV' group-title='TV-NASIONAL',RodjaTV
-#EXTGRP:TV-NASIONAL
-https://op-group2-swiftservesd-1.dens.tv/s/s14/01.m3u8
-
-#EXTINF:-1 tvg-id='rcti.id' tvg-logo='' tvg-name='RCTI' group-title='TV-NASIONAL',RCTI
+#EXTINF:-1 tvg-id='rcti.id' tvg-logo='' tvg-name='RCTI' group-title='TV-NASIONAL',RCTI (MATI)
 #EXTGRP:TV-NASIONAL
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683099&extension=m3u8&play_token=wJfTp9js5o
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV *
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV (MATI)
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683098&extension=m3u8&play_token=wJfTp9js5o
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV HD *
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV HD (MATI)
 http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683121&extension=m3u8&play_token=wJfTp9js5o
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INews
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INews (MATI)
 http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/132131.m3u8
 
 ####################### HIBURAN #######################
@@ -76,152 +72,13 @@ http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/132131.m3u8
 #EXTGRP:HIBURAN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u8
 
-#EXTINF:-1 tvg-id='mtvstage.et' tvg-logo='https://cdn.logojoy.com/wp-content/uploads/2018/07/05125808/mtv-logo-1024x814.png' tvg-name='MTV Stage' group-title='HIBURAN',MTV Stage
-#EXTGRP:HIBURAN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch242)/index.m3u8
-
-#EXTINF:-1 tvg-id='crime.et' tvg-logo='http://s3.i3ns.net/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png' tvg-name='Crime+ Investigation' group-title='HIBURAN',Crime+ Investigation
-#EXTGRP:HIBURAN
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch349)/index.m3u8
-
 ####################### FILM #######################
-
-#EXTINF:-1 tvg-id='hbo.mv' tvg-logo='https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png' tvg-name='hbo' group-title='FILM',hbo
-#EXTGRP:FILM
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/197972
-
-#EXTINF:-1 tvg-id='hbohits.mv' tvg-logo='' tvg-name='HBO Hits' group-title='FILM',HBO Hits
-#EXTGRP:FILM
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/196480
-
-#EXTINF:-1 tvg-id='hbofam.mv' tvg-logo='' tvg-name='HBO Family' group-title='FILM',HBO Family
-#EXTGRP:FILM
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/197055
-
-#EXTINF:-1 tvg-id='cinemax.mv' tvg-logo='' tvg-name='Cinemax' group-title='FILM',Cinemax
-#EXTGRP:FILM
-http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/197964
-
-#EXTINF:-1 tvg-id='citrabioskop.mv' tvg-logo='https://i.postimg.cc/zGzc2gDw/20230519-230743.jpg' tvg-name='Citra Bioskop' group-title='FILM',Citra Bioskop
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
-
-#EXTINF:-1 tvg-id='citradrama.mv' tvg-logo='https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG' tvg-name='Citra Drama' group-title='FILM',Citra Drama
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
-
-#EXTINF:-1 tvg-id='citraentertainment.mv' tvg-logo='' tvg-name='Citra Entertaniment' group-title='FILM',Citra Entertaniment
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
-
-#EXTINF:-1 tvg-id='paramountnetwork.mv' tvg-logo='http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png' tvg-name='Paramount Network' group-title='FILM',Paramount Network
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u8
-
-#EXTINF:-1 tvg-id='rockaction.mv' tvg-logo='http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png' tvg-name='Rock Action' group-title='FILM',Rock Action
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch330)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="FILM",Rock Entertainment
 http://rr1.dens.tv/h/h16/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="FILM",CinemaWorld|🇮🇩
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165082
-
-#EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/BTmcTQO.png" group-title="FILM",MY CINEMA BARU
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683152&extension=m3u8&play_token=wJfTp9js5o
-
-#EXTINF:-1 tvg-id="MyKidz.id" tvg-logo="https://i.imgur.com/BTmcTQO.png" group-title="FILM",MY KIDZ BARU
-http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683152&extension=m3u8&play_token=wJfTp9js5o
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="FILM",AXN|🇮🇩
-http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165079
-
-#EXTINF:-1 tvg-id='dreamworks.mv' tvg-logo='https://i.postimg.cc/287VLgm7/migrasi-aso1.png' tvg-name='Dreamworks' group-title='FILM',Dreamworks
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch374)/index.m3u8
-
-#EXTINF:-1 tvg-id='cartoonnetwork.mv' tvg-logo='http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png' tvg-name='Cartoon Network' group-title='FILM',Cartoon Network
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
-
-#EXTINF:-1 tvg-id='nickelodeon.mv' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png' tvg-name='Nickelodeon' group-title='FILM',Nickelodeon
-#EXTGRP:FILM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch105)/index.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/motorvision+@3x.jpg", MOTOR+ VISION
-https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
-
-#EXTINF:-1 group-title="PREMIUM" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503257_tvchannels_v1.jpg", MOTOR RACING
-https://op-group1-swiftservehd-1.dens.tv/h/h25/S4/mnf.m3u8
-
 ####################### SPORTS #######################
 
-#EXTINF:-1 tvg-id='MUTV' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/a/a0/Mutv_new_logo.png/200px-Mutv_new_logo.png',MUTV
+#EXTINF:-1 tvg-id='MUTV' tvg-logo='https://upload.wikimedia.org/wikipedia/id/thumb/a/a0/Mutv_new_logo.png/200px-Mutv_new_logo.png',Manchester United TV
 #EXTGRP:OLAHRAGA
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-
-#EXTINF:-1 tvg-id='beinsport1' tvg-logo='',Bein Sports 1
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/8
-
-#EXTINF:-1 tvg-id='beinsport2' tvg-logo='',Bein Sports 2
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/15
-
-#EXTINF:-1 tvg-id='beinsport3' tvg-logo='',Bein Sports 3
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/18
-
-#EXTINF:-1 tvg-id='beinsport4' tvg-logo='',Bein Sports 4
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/9238
-
-#EXTINF:-1 tvg-id='beinsport5' tvg-logo='',Bein Sports 5
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/69215
-
-#EXTINF:-1 tvg-id='bundesliga1' tvg-logo='',Bundesliga 1
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4833
-
-#EXTINF:-1 tvg-id='bundesliga2' tvg-logo='',Bundesliga 2
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4836
-
-#EXTINF:-1 tvg-id='bundesliga3' tvg-logo='',Bundesliga 3
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4838
-
-#EXTINF:-1 tvg-id='bundesliga4' tvg-logo='',Bundesliga 4
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4840
-
-#EXTINF:-1 tvg-id='bundesliga5' tvg-logo='',Bundesliga 5
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4842
-
-#EXTINF:-1 tvg-id='skysport1' tvg-logo='',Sky Sport 1
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4854
-
-#EXTINF:-1 tvg-id='skysport2' tvg-logo='',Sky Sport 2
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4857
-
-#EXTINF:-1 tvg-id='skysport3' tvg-logo='',Sky Sport 3
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4861
-
-#EXTINF:-1 tvg-id='skysport4' tvg-logo='',Sky Sport 4
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4863
-
-#EXTINF:-1 tvg-id='skysport5' tvg-logo='',Sky Sport 5
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4865
-
-#EXTINF:-1 tvg-id='skysport6' tvg-logo='',Sky Sport 6
-#EXTGRP:OLAHRAGA
-http://kzice.ddnsfree.com:8080/uguriskender/5822884385/4867
-
