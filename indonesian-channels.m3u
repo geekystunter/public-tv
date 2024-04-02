@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-id='sctvbackup.id' tvg-logo='http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png' tvg-name='SCTV' group-title='TV-NASIONAL',SCTV
 #EXTGRP:TV-NASIONAL
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/622.m3u8
 
 #EXTINF:-1 tvg-id='transtv.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png' tvg-name='TRANS TV' group-title='TV-NASIONAL',TRANS TV
 #EXTGRP:TV-NASIONAL
