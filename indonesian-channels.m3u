@@ -10,6 +10,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",ARAB
 https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/GMFIt7jSXmzD4X2YRKm2M436CRBOLvfog6eH1m62G-vFDb1_1qmSWwVJvzPVfX_bAguB28CO5ZGXmffcvAenhA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",ARAB 2
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/GMFIt7jSXmzD4X2YRKm2M436CRBOLvfog6eH1m62G-vFDb1_1qmSWwVJvzPVfX_bAguB28CO5ZGXmffcvAenhA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
+
 #EXTINF:-1 tvg-id='transtv.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png' tvg-name='TRANS TV' group-title='TV-NASIONAL',TRANS TV
 #EXTGRP:TV-NASIONAL
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
