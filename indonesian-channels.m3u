@@ -15,7 +15,7 @@ https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/GMFIt7jSXmzD4X2YRK
 
 #EXTINF:-1 tvg-id='transtv.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png' tvg-name='TRANS TV' group-title='TV-NASIONAL',TRANS TV
 #EXTGRP:TV-NASIONAL
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
+https://pullstream.transtv.co.id/livettv/livestreamttv.m3u8
 
 #EXTINF:-1 tvg-id='trans7.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png' tvg-name='TRANS 7' group-title='TV-NASIONAL',TRANS 7
 #EXTGRP:TV-NASIONAL
