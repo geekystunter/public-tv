@@ -1,21 +1,13 @@
 #EXTM3U
 
 ####################### INDONESIAN #######################
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",INDO
-https://prod-ec-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/kLK1JgCIHOQdJV-9l5BkUbF9VkHwwVoCilt8A3E5nNB-LAsHbeGbE1_nsqnKgcurU3qHc9zBfqzHHS9WkH_nfA/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",ARAB
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/GMFIt7jSXmzD4X2YRKm2M436CRBOLvfog6eH1m62G-vFDb1_1qmSWwVJvzPVfX_bAguB28CO5ZGXmffcvAenhA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://hometv.pw/logo/lokal/sctv.png" group-title="NATIONAL",ARAB 2
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/GMFIt7jSXmzD4X2YRKm2M436CRBOLvfog6eH1m62G-vFDb1_1qmSWwVJvzPVfX_bAguB28CO5ZGXmffcvAenhA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/dynamic_highlatency.m3u8?type=live
-
 #EXTINF:-1 tvg-id='transtv.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png' tvg-name='TRANS TV' group-title='TV-NASIONAL',TRANS TV
 #EXTGRP:TV-NASIONAL
-https://pullstream.transtv.co.id/livettv/livestreamttv.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id='trans7.id' tvg-logo='http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png' tvg-name='TRANS 7' group-title='TV-NASIONAL',TRANS 7
 #EXTGRP:TV-NASIONAL
@@ -35,7 +27,7 @@ http://210.210.155.37/uq2663/h/h12/index.m3u8
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://png2.cleanpng.com/sh/1e1565b5dbc64416612f109ac39dfc20/L0KzQYm3WcIxN6l6kZH0aYP2gLBuTgJkfJoyhddtaXGwfsb6gf51aaNmRdVydILkPb32hB8ucZ9ph9Duc3nkPcXsjPV3caRuRd54Z3AwgrT7ib1oaZ5neeQ2bHBqf368gvE0OmQ5S9cAYXO5RXA4WcI6PGI4UKMAM0e3QYm3VcE6PGE9RuJ3Zx==/kisspng-rcti-media-nusantara-citra-logo-indonesia-televisi-logo-rcti-gambar-logo-5ba32343e5ac65.1929413815374180519408.png" group-title="NATIONAL",RCTI*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://midcache2.rctiplus.id/live/shoppluslive_20240425_480p/index.m3u8
+https://midcache2.rctiplus.id/live/shopplus_20240514.m3u8
 
 #EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/798px-MNCTV_logo.png" group-title="NATIONAL",MNC TV*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -67,6 +59,7 @@ http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 #EXTINF:-1 tvg-id='tvone.id' tvg-logo='https://i.postimg.cc/2y4WwVhW/tvon.png' tvg-name='TVONE' group-title='TV-NASIONAL',TV ONE (BARU)
 #EXTGRP:TV-NASIONAL
 http://210.210.155.37/uq2663/h/h40/index.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 
 #EXTINF:-1 tvg-id='rodja.id' tvg-logo='' tvg-name='RodjaTV' group-title='TV-NASIONAL',RODJA TV (BARU)
 #EXTGRP:TV-NASIONAL
@@ -88,6 +81,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch241)/index.m3u
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/FHTMK2SZ/Dens-tv-SHAREEXT.png" group-title="FILM",Rock Entertainment
 http://rr1.dens.tv/h/h16/index.m3u8
+
+#EXTINF:-1, tvN Movies
+http://210.210.155.37/dr9445/h/h21/index.m3u8
 
 #EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg", ROCK Action (BARU)
 http://210.210.155.37/uq2663/h/h218/01.m3u8
