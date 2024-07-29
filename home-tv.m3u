@@ -6,6 +6,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
+#EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tivigratis/tv/main/LOGO.jpg",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTVLCOPT:http-referrer=http://dens.tv
